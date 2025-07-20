@@ -12,16 +12,13 @@ Power BI: For interactive dashboards and insightful visualizations
 🔧 Key Steps in the Project:
 Data Cleaning: Handled missing values using mode imputation, removed duplicates, and normalized screen time.
 
-Feature Engineering:
-
-Converted screen time from hours to minutes
+Feature Engineering:Converted screen time from hours to minutes
 
 Encoded gender and other categorical variables
 
 Created binary columns for classification (e.g., exceeded screen time limit)
 
 Exploratory Data Analysis (EDA):
-
 Age vs screen time
 
 Gender-wise health issues
@@ -38,9 +35,6 @@ Screen time trends across different regions
 
 📈 Key Insights:
 📱 47.32% of kids primarily use smartphones
-
 ⏰ Age group 12–17 spends 4.5+ hours on screens daily
-
 🛌 Over 55% of children who exceed screen time limits report poor sleep quality
-
 ⚖️ Recreational screen use outweighs educational usage in most cases

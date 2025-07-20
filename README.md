@@ -7,7 +7,7 @@ Google Colab: Data cleaning, feature engineering, and preprocessing using Python
 Python Libraries: pandas, matplotlib, seaborn
 Power BI: For interactive dashboards and insightful visualizations
 
-🔧 Key Steps in the Project:
+🔧 Key Steps in the Project:.
 Data Cleaning:
  Handled missing values using mode imputation, removed duplicates, and normalized screen time.
 

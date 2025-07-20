@@ -1,4 +1,6 @@
 📊 Project Title: Screen Time Analysis Among Indian Kids
+
+
 🔍 Objective:
 This project focuses on analyzing screen time behavior among Indian children by age, gender, and device usage. The goal is to uncover patterns, quantify health impacts, and explore educational versus recreational screen usage.
 
